@@ -62,7 +62,7 @@ Backend APIs (Node.js + Express)
 Database (MongoDB)
 
 🚀 Installation & Setup
-git clone https://github.com/yourusername/online-result-management-system.git
+git clone https://github.com/akashd-dev/ORMS-CLG.git
 cd online-result-management-system
 npm install
 npm start
